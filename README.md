@@ -1,1 +1,1 @@
-# Dynamic-Expense-Tracker-Website-
+# Dynamic Expense Tracker Website
